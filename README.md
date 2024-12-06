@@ -34,8 +34,9 @@ pip install -r requirements.txt
 ## Usage 🚀
 ***Activate*** the virtual enviroment
 
+- While being in the project's root:
 ```bash
-todo
+.\.venv\Scripts\activate
 ```
 
 To run the bot, simply execute the Python script:
