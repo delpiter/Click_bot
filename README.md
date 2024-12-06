@@ -44,8 +44,8 @@ To run the bot, simply execute the Python script:
 python click_bot.py
 ```
 
-## Collaborators 👯
-The GitHub page of the collaborator
+## Contributors 👯
+The GitHub page of the contributor
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MatteoTonelli05)
 
