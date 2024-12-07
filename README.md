@@ -34,11 +34,6 @@ pip install -r requirements.txt
 ## Usage 🚀
 ***Activate*** the virtual enviroment
 
-- While being in the project's root:
-```bash
-.\.venv\Scripts\activate
-```
-
 To run the bot, simply execute the Python script:
 ```bash
 python click_bot.py
